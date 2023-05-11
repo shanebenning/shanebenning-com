@@ -1,0 +1,23 @@
+{
+  "name": "shanebenning-com",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "bun run --watch app/main.ts",
+    "build": "echo \"Error: not implemented.\" && exit 1",
+    "start": "echo \"Error: not implemented.\" && exit 1",
+    "deploy": "echo \"Error: not implemented.\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.6",
+    "@types/react-dom": "^18.2.4",
+    "bun-types": "canary",
+    "eslint": "^8.40.0",
+    "eslint-config-prettier": "^8.8.0",
+    "prettier": "^2.8.8"
+  }
+}
